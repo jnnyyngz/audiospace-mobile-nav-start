@@ -283,12 +283,13 @@ footer .space { color:#bdd4de; }
 	#mainnav ul li a {
 		width: 100%;
 		box-sizing: border-box;
-		padding:
-		text-align:
-		border-bottom:
-		border-right:
+		padding:0;
+		text-align:center;
+		border-bottom: none;
+		border-right: 1px solid #ca6a0c;	
 	}
 }
+
 
 @media only screen and (min-width: 960px) {
 	
